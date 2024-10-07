@@ -1,2 +1,7 @@
 # Binaries output
 bin/
+
+
+# Added by cargo
+
+/target
