@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://raw.githubusercontent.com/evgenrudenko22/melon/refs/heads/main/res/Melon.PNG" alt="Melon Editor" witdh="200" style="border-radius: 8px;"/>
+	<img src="https://raw.githubusercontent.com/evgenrudenko22/melon/refs/heads/main/res/Melon.PNG" alt="Melon Editor" width="200" style="border-radius: 8px;"/>
 	
 </h1>
 
